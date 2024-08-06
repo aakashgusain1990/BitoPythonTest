@@ -1,5 +1,1 @@
-# BitoPythonTest
-
-
-
-Some changes in Readme.md
+#Pull request closed & deleted source.
