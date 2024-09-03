@@ -1,2 +1,2 @@
-def get_hello_message():
-    return "Hello, World!"
+def get_hello_message(name: str):
+    return f"Hello {name}"
